@@ -1,0 +1,4 @@
+PC_01,All in one ASUS,Gaming,Intel Corei3,Intel UHD,512GB SSD,7.7,105,
+PC_02,iMac 27,Office,Corei5,GeForce RTX,1TB HHD,5.0,320,
+PC_03,HP Pavilion,Gaming, Ryzen5,Radeon TM Vega,256GB,7.2,520,
+PC_04,Lenovo,Gaming,Corei5,Intel HD,256GB SSD,8.2,190,
